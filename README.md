@@ -28,3 +28,11 @@
 
 
 
+<p align="center">
+
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ghat0tkach&show_icons=true&theme=dracula" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ghat0tkach&theme=dracula" />
+ 
+ </p>
+ 
