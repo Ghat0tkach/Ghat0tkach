@@ -31,6 +31,6 @@
 
 <p align="center">
 	
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghat0tkach&show_icons=true&theme=radical)](https://github.com/Ghat0tkach/github-readme-stats)
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ghat0tkach&theme=tokyonight" />
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ghat0tkach&show_icons=true&theme=tokyonight" />
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ghat0tkach&theme=tokyonight" />
 </p>
