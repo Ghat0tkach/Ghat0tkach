@@ -7,9 +7,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/4rzsojG8H8Ccg/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghat0tkach&label=Profile%20views&color=0e75b6&style=flat" alt="ghat0tkach" /> </p>
 
-- 🔭 I’m currently working on **C++, HTML ,JAVASCRIPT,CSS**
+- 🔭 I’m currently working on [Frontend-Path](https://scrimba.com/learn/frontend?topic=react)
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Advance Js And React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ghat0tkach/WEB-DEVELOPMENT-PROJECTS](https://github.com/Ghat0tkach/WEB-DEVELOPMENT-PROJECTS)
 
