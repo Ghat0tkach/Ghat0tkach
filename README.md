@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Advance Js And React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ghat0tkach/WEB-DEVELOPMENT-PROJECTS](https://github.com/Ghat0tkach/WEB-DEVELOPMENT-PROJECTS)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/Ghat0tkach/WEB-DEVELOPMENT-PROJECTS)
 
 - 📫 How to reach me **awesomevikram3@gmail.com**
 
