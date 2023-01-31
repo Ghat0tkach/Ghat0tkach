@@ -1,10 +1,10 @@
-[![@ghatotkach's Holopin board](https://holopin.me/ghatotkach)](https://holopin.io/@ghatotkach)
+[![@ghatotkach's Holopin board](  https://holopin.me/ghatotkach)](https://holopin.io/@ghatotkach)
 
-<img align="center" alt="Coding"  height="500" width="1000" src="https://media.tenor.com/A0E-YGs4v-YAAAAi/socheers-the-socheers.gif">
+<img align="center" alt="Coding"  height="300" width="1000" src="https://media.tenor.com/A0E-YGs4v-YAAAAi/socheers-the-socheers.gif">
 
 <h1 align="center">Hi 👋, I'm Vikram</h1>
 <h3 align="center">A enthusiast in the open source and a curious fellow for the technology of blockchain</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/4rzsojG8H8Ccg/giphy.gif">
+<img align="right" alt="Coding"  width="500" src="https://media.giphy.com/media/4rzsojG8H8Ccg/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghat0tkach&label=Profile%20views&color=0e75b6&style=flat" alt="ghat0tkach" /> </p>
 
 - 🔭 I’m currently working on [Frontend-Path](https://scrimba.com/learn/frontend?topic=react)
