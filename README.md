@@ -5,7 +5,7 @@
 <img align="right" alt="Coding"  width="500" src="https://media.giphy.com/media/4rzsojG8H8Ccg/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghat0tkach&label=Profile%20views&color=0e75b6&style=flat" alt="ghat0tkach" /> </p>
 
-- 🔭 I’m currently working on [Frontend-Path](https://scrimba.com/learn/frontend?topic=react)
+- 🔭 I’m currently working on [Frontend-Path](https://scrimba.com/learn/frontend?topic=react) and Flutter
 
 - 🌱 I’m currently learning **Advance Js And React**
 
