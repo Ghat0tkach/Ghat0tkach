@@ -30,6 +30,8 @@
 ## 📈 Stats
 
 <p align="center">
+  <figure><embed src="https://wakatime.com/share/@Ghatotkach/068c8aec-44e9-4976-b846-d24ee9641056.svg"></embed></figure>
+
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ghat0tkach&show_icons=true&theme=tokyonight" />
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ghat0tkach&theme=tokyonight" />
 </p>
