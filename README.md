@@ -29,12 +29,15 @@
 
 ## 📈 Stats
 
-<p align="center">
-  <figure><embed src="https://wakatime.com/share/@Ghatotkach/068c8aec-44e9-4976-b846-d24ee9641056.svg"></embed></figure>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghat0tkach&show_icons=true&locale=en&layout=compact" alt="ghat0tkach" /></p>
-     <img align="right" height="30%" width="58%"  src="https://wakatime.com/share/@Ghatotkach/068c8aec-44e9-4976-b846-d24ee9641056.svg" />
-   <img width="33%" align="left" src="https://github-readme-stats.vercel.app/api?username=Ghat0tkach&show_icons=true&theme=tokyonight" />
-   <img width="33%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ghat0tkach&theme=tokyonight" />
-</p>
+<a href="https://git.io/streak-stats">
+  <img align="left" src="https://streak-stats.demolab.com?user=ghat0tkach&theme=transparent" />
+</a>
 
-[![@ghatotkach's Holopin board](  https://holopin.me/ghatotkach)](https://holopin.io/@ghatotkach)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" heigth="40%" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ghatotkach" />
+</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+<img  src="https://github-readme-stats.vercel.app/api?username=ghat0tkach&show_icons=true&theme=transparent" />
+</a>     
+
+[![An image of @ghatotkach's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghatotkach)](https://holopin.io/@ghatotkach)
