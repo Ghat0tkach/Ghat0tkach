@@ -30,14 +30,14 @@
 ## 📈 Stats
 
 <a href="https://git.io/streak-stats">
-  <img align="left" src="https://streak-stats.demolab.com?user=ghat0tkach&theme=transparent" />
+  <img align="left" heigth="40%" width="45%" src="https://streak-stats.demolab.com?user=ghat0tkach&theme=transparent" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" heigth="40%" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ghatotkach" />
 </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-<img  src="https://github-readme-stats.vercel.app/api?username=ghat0tkach&show_icons=true&theme=transparent" />
+<img heigth="40%" width="45%"  src="https://github-readme-stats.vercel.app/api?username=ghat0tkach&show_icons=true&theme=transparent" />
 </a>     
 
 [![An image of @ghatotkach's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghatotkach)](https://holopin.io/@ghatotkach)
