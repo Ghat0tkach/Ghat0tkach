@@ -1,13 +1,13 @@
 <img align="center" alt="Coding"  height="300" width="1000" src="https://media.tenor.com/A0E-YGs4v-YAAAAi/socheers-the-socheers.gif">
 
 <h1 align="center">Hi 👋, I'm Vikram</h1>
-<h3 align="center">A enthusiast in the open source and a curious fellow for the technology of blockchain</h3>
+<h3 align="center">An enthusiast in the world of Open-Source and  Technologies</h3>
 <img align="right" alt="Coding"  width="500" src="https://media.giphy.com/media/4rzsojG8H8Ccg/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghat0tkach&label=Profile%20views&color=0e75b6&style=flat" alt="ghat0tkach" /> </p>
 
-- 🔭 I’m currently working on [Frontend-Path](https://scrimba.com/learn/frontend?topic=react) and Flutter
+- 🔭 I’m currently working to upskill myself
 
-- 🌱 I’m currently learning **Advance Js And React**
+- 🌱 I’m currently learning **React and Node.Js**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/Ghat0tkach/WEB-DEVELOPMENT-PROJECTS)
 
