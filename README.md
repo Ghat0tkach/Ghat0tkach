@@ -1,4 +1,6 @@
-<img align="center" alt="Coding"  height="300" width="1000" src="https://media.tenor.com/A0E-YGs4v-YAAAAi/socheers-the-socheers.gif">
+<div align="center"><a href= "https://meshery.layer5.io/user/b0442e44-1d89-410e-a51b-8dc2b9e0c92e?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/meshery/meshery.svg" alt = "Meshery" /></a >
+<a href= "https://meshery.layer5.io/user/b0442e44-1d89-410e-a51b-8dc2b9e0c92e?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/community/community.svg" alt = "Community" /></a >
+</div>
 
 <h1 align="center">Hi 👋, I'm Vikram</h1>
 <h3 align="center">An enthusiast in the world of Open-Source and  Technologies</h3>
