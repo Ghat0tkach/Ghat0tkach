@@ -1,8 +1,6 @@
-<div align="center"><a href= "https://meshery.layer5.io/user/b0442e44-1d89-410e-a51b-8dc2b9e0c92e?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/meshery/meshery.svg" alt = "Meshery" /></a >
-<a href= "https://meshery.layer5.io/user/b0442e44-1d89-410e-a51b-8dc2b9e0c92e?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/community/community.svg" alt = "Community" /></a >
-</div>
-
-<h1 align="center">Hi 👋, I'm Vikram</h1>
+<h3 align="center">Hi 👋, I'm Vikram</h1>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <h3 align="center">An enthusiast in the world of Open-Source and  Technologies</h3>
 <img align="right" alt="Coding"  width="500" src="https://media.giphy.com/media/4rzsojG8H8Ccg/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghat0tkach&label=Profile%20views&color=0e75b6&style=flat" alt="ghat0tkach" /> </p>
@@ -14,6 +12,14 @@
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/Ghat0tkach/WEB-DEVELOPMENT-PROJECTS)
 
 - 📫 How to reach me **awesomevikram3@gmail.com**
+
+
+
+
+<div align="center"><a href= "https://meshery.layer5.io/user/b0442e44-1d89-410e-a51b-8dc2b9e0c92e?tab=badges"><img width="100px" height="224px" src = "https://badges.layer5.io/assets/badges/meshery/meshery.svg" alt = "Meshery" /></a >
+<a href= "https://meshery.layer5.io/user/b0442e44-1d89-410e-a51b-8dc2b9e0c92e?tab=badges"><img width="100px" height="224px" src = "https://badges.layer5.io/assets/badges/community/community.svg" alt = "Community" /></a >
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
