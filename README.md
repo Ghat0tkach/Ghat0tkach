@@ -76,7 +76,7 @@ Java               17 hrs 5 mins   >------------------------   02.80 %
 
 <!--END_SECTION:waka-->
 <div style="display: flex; justify-content: space-between; align-items:center ; marginTop:10px; marginBottom:50px">
-    <img style="height: 150px; display: inline-block;" src="https://github-readme-streak-stats.herokuapp.com/?user=ghat0tkach&theme=dracula" alt="ghat0tkach" />
+    <img style="height: 150px; display: inline-block; widht:100px" src="https://github-readme-streak-stats.herokuapp.com/?user=ghat0tkach&theme=dracula" alt="ghat0tkach" />
     <a  href="https://meshery.layer5.io/user/b0442e44-1d89-410e-a51b-8dc2b9e0c92e?tab=badges"><img style="marginTop:50px" width="100px" height="224px" src="https://badges.layer5.io/assets/badges/meshery/meshery.svg" alt="Meshery" /></a>
     <a   href="https://meshery.layer5.io/user/b0442e44-1d89-410e-a51b-8dc2b9e0c92e?tab=badges"><img style="marginTop:50px" width="100px" height="224px" src="https://badges.layer5.io/assets/badges/community/community.svg" alt="Community" /></a>
     <img style="height: 150px; display: inline-block;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghat0tkach&theme=dark" alt="GitHub Stats" />
