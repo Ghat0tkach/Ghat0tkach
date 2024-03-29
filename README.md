@@ -1,5 +1,19 @@
 <h3 align="center">Hi 👋, I'm Vikram</h1>
 <!--START_SECTION:waka-->
+
+```javascript
+From: 08 May 2023 - To: 28 March 2024
+
+Total Time: 610 hrs 11 mins
+
+JavaScript         373 hrs 14 mins >>>>>>>>>>>>>>>----------   61.17 %
+Python             66 hrs 59 mins  >>>----------------------   10.98 %
+CSS                28 hrs 6 mins   >------------------------   04.61 %
+HTML               20 hrs 58 mins  >------------------------   03.44 %
+TypeScript         19 hrs 50 mins  >------------------------   03.25 %
+Java               17 hrs 5 mins   >------------------------   02.80 %
+```
+
 <!--END_SECTION:waka-->
 <h3 align="center">An enthusiast in the world of Open-Source and  Technologies</h3>
 <img align="right" alt="Coding"  width="500" src="https://media.giphy.com/media/4rzsojG8H8Ccg/giphy.gif">
