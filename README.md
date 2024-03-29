@@ -1,4 +1,64 @@
-<h3 align="center">Hi 👋, I'm Vikram</h1>
+<h2 align="left">Hi 👋! My name is Vikram</h2>
+
+
+- Curious about Generative AI
+- Passionate about adding Values through Development
+- Thankful To Open Source
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghat0tkach&label=Profile%20views&color=0e75b6&style=flat" alt="ghat0tkach" /> </p>
+
+
+
+###
+
+<img align="right" width="250" src="https://media.giphy.com/media/4rzsojG8H8Ccg/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+</div>
+
+###
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <!--START_SECTION:waka-->
 
 ```javascript
@@ -15,51 +75,27 @@ Java               17 hrs 5 mins   >------------------------   02.80 %
 ```
 
 <!--END_SECTION:waka-->
-<h3 align="center">An enthusiast in the world of Open-Source and  Technologies</h3>
-<img align="right" alt="Coding"  width="500" src="https://media.giphy.com/media/4rzsojG8H8Ccg/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghat0tkach&label=Profile%20views&color=0e75b6&style=flat" alt="ghat0tkach" /> </p>
-
-- 🔭 I’m currently working to upskill myself
-
-- 🌱 I’m currently learning **React and Node.Js**
-
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/Ghat0tkach/WEB-DEVELOPMENT-PROJECTS)
-
-- 📫 How to reach me **awesomevikram3@gmail.com**
-
-
-
-
-<div align="center"><a href= "https://meshery.layer5.io/user/b0442e44-1d89-410e-a51b-8dc2b9e0c92e?tab=badges"><img width="100px" height="224px" src = "https://badges.layer5.io/assets/badges/meshery/meshery.svg" alt = "Meshery" /></a >
-<a href= "https://meshery.layer5.io/user/b0442e44-1d89-410e-a51b-8dc2b9e0c92e?tab=badges"><img width="100px" height="224px" src = "https://badges.layer5.io/assets/badges/community/community.svg" alt = "Community" /></a >
+<div style="display: flex; justify-content: space-between; align-items:center ; marginTop:10px; marginBottom:50px">
+    <img style="height: 150px; display: inline-block;" src="https://github-readme-streak-stats.herokuapp.com/?user=ghat0tkach&theme=dracula" alt="ghat0tkach" />
+    <a  href="https://meshery.layer5.io/user/b0442e44-1d89-410e-a51b-8dc2b9e0c92e?tab=badges"><img style="marginTop:50px" width="100px" height="224px" src="https://badges.layer5.io/assets/badges/meshery/meshery.svg" alt="Meshery" /></a>
+    <a   href="https://meshery.layer5.io/user/b0442e44-1d89-410e-a51b-8dc2b9e0c92e?tab=badges"><img style="marginTop:50px" width="100px" height="224px" src="https://badges.layer5.io/assets/badges/community/community.svg" alt="Community" /></a>
+    <img style="height: 150px; display: inline-block;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghat0tkach&theme=dark" alt="GitHub Stats" />
 </div>
+<div align="center"  >
+   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ghat0tkach&theme=react-dark"/>
+   
+</div>
+  
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sarcasvik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarcasvik" height="30" width="40" /></a>
-<a href="https://instagram.com/ghat0tkach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghat0tkach" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ghat0tkach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ghat0tkach" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
+[![An image of @ghatotkach's Holopin badges, which is a link to view their flil Holopin profile](https://holopin.me/ghatotkach)](https://holopin.io/@ghatotkach)
 
 
 
 
-## 📈 Stats
 
-<a href="https://git.io/streak-stats">
-  <img align="left" heigth="40%" width="45%" src="https://streak-stats.demolab.com?user=ghat0tkach&theme=transparent" />
-</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" heigth="40%" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ghatotkach" />
-</a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-<img heigth="40%" width="45%"  src="https://github-readme-stats.vercel.app/api?username=ghat0tkach&show_icons=true&theme=transparent" />
-</a>     
 
-[![An image of @ghatotkach's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghatotkach)](https://holopin.io/@ghatotkach)
+
+
+
