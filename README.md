@@ -86,21 +86,7 @@ Java               17 hrs 5 mins   >------------------------   02.56 %
 ```
 
 <!--END_SECTION:waka-->
-<div align="center" style=" marginTop:10px; marginBottom:50px">
-    <img style="height: 150px; display: inline-block; widht:100px" src="https://github-readme-streak-stats.herokuapp.com/?user=ghat0tkach&theme=dracula" alt="ghat0tkach" />
-    <img style="height: 150px; display: inline-block;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghat0tkach&theme=dark" alt="GitHub Stats" />
-</div>
-<div align="center"  >
-   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ghat0tkach&theme=react-dark"/>
-   <div align="center"><a href= "https://meshery.layer5.io/user/b0442e44-1d89-410e-a51b-8dc2b9e0c92e?tab=badges"><img width="100px" height="224px" src = "https://badges.layer5.io/assets/badges/meshery/meshery.svg" alt = "Meshery" /></a >
-<a href= "https://meshery.layer5.io/user/b0442e44-1d89-410e-a51b-8dc2b9e0c92e?tab=badges"><img width="100px" height="224px" src = "https://badges.layer5.io/assets/badges/community/community.svg" alt = "Community" /></a >
-</div>
-   
-</div>
-  
 
-
-[![An image of @ghatotkach's Holopin badges, which is a link to view their flil Holopin profile](https://holopin.me/ghatotkach)](https://holopin.io/@ghatotkach)
 
 
 
