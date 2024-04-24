@@ -7,14 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghat0tkach&label=Profile%20views&color=0e75b6&style=flat" alt="ghat0tkach" /> </p>
 
-
-
-###
-
-<img align="right" width="250" src="https://media.giphy.com/media/4rzsojG8H8Ccg/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -47,12 +39,6 @@
 <a href="mailto:awesomevikram3@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
-<a href="https://discord.com/">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-</a>
-<a href="https://www.instagram.com/ghat0tkach">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-</a>
 <a href="https://www.linkedin.com/in/vikram1612">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
@@ -63,12 +49,6 @@
 </div>
 
 ###
-
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <!--START_SECTION:waka-->
 
