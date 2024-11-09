@@ -53,13 +53,13 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 08 May 2023 - To: 07 November 2024
+From: 08 May 2023 - To: 08 November 2024
 
-Total Time: 1,002 hrs 27 mins
+Total Time: 1,003 hrs 24 mins
 
-JavaScript         457 hrs 47 mins >>>>>>>>>>>--------------   45.67 %
-Python             209 hrs 10 mins >>>>>--------------------   20.87 %
-TypeScript         127 hrs 52 mins >>>----------------------   12.76 %
+JavaScript         457 hrs 47 mins >>>>>>>>>>>--------------   45.62 %
+Python             209 hrs 55 mins >>>>>--------------------   20.92 %
+TypeScript         127 hrs 52 mins >>>----------------------   12.74 %
 CSS                29 hrs 12 mins  >------------------------   02.91 %
 HTML               24 hrs 4 mins   >------------------------   02.40 %
 Java               22 hrs 16 mins  >------------------------   02.22 %
