@@ -53,16 +53,16 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 08 May 2023 - To: 12 March 2025
+From: 08 May 2023 - To: 13 March 2025
 
-Total Time: 1,396 hrs 6 mins
+Total Time: 1,402 hrs 25 mins
 
-JavaScript          465 hrs 47 mins >>>>>>>>-----------------   33.36 %
-TypeScript          418 hrs 10 mins >>>>>>>------------------   29.95 %
-Python              266 hrs 21 mins >>>>>--------------------   19.08 %
-CSS                 30 hrs 51 mins  >------------------------   02.21 %
-JSON                27 hrs 15 mins  -------------------------   01.95 %
-HTML                25 hrs 20 mins  -------------------------   01.82 %
+JavaScript          465 hrs 47 mins >>>>>>>>-----------------   33.21 %
+TypeScript          424 hrs 29 mins >>>>>>>>-----------------   30.27 %
+Python              266 hrs 21 mins >>>>>--------------------   18.99 %
+CSS                 30 hrs 52 mins  >------------------------   02.20 %
+JSON                27 hrs 15 mins  -------------------------   01.94 %
+HTML                25 hrs 20 mins  -------------------------   01.81 %
 ```
 
 <!--END_SECTION:waka-->
